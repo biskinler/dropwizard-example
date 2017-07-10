@@ -1,0 +1,6 @@
+template: Hello, %s!
+defaultName: Yabanci
+
+http:
+  port: 9000
+  adminPort: 9001
